@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This package generates a readme based on user prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Huffman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
