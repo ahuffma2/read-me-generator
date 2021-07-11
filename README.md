@@ -3,7 +3,7 @@
   
   This is a useful little tool that allows the user to create readMe's quickly and efficiently using command lines. No longer will you need to deal with pesky markdown cheetsheets. I've done that work for you!
 
-  ##Table of Contents
+  ## Table of Contents
 
   -[Installation](#installation)
 
